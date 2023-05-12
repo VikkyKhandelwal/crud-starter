@@ -1,2 +1,2 @@
-# UserAuth
-Simple signup system for a dummy login page.
+# CRUD Starter
+Basic RESTful API that implements CRUD requests.
